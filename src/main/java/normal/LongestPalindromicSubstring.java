@@ -1,4 +1,4 @@
-package org.example;
+package normal;
 
 /**
  * 5. Longest Palindromic Substring
